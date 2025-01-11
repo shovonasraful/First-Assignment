@@ -50,7 +50,7 @@
 .section-descr{
     color: rgb(14, 14, 14);
     font-weight:bolder;
-    font-size: 50px;
+    font-size: 40px;
     
 }
 .section-title{
@@ -61,6 +61,7 @@
 .first-img{
     width: 470.03px;
     height: 330px;
+    padding: 65px  40px 70px 64px;
     
     
 }
@@ -73,7 +74,7 @@
     padding:20px 36px ;
 }
 .second-sc{
-    margin: 210px 140px 80px 140px;
+    margin: 210px 140px 80px 170px;
 }
 .section-main{
     display: flex;
@@ -97,12 +98,12 @@
 }
 .secondsc-desc{
     color: rgba(14, 14, 14, 0.7);
-    font-style: 13px;
-    font-style: 350px;
+    font-size: 13px;
+    font-weight: 350px;
     
 }
 .vision{
-    margin: 210px 140px 80px 140px;
+    margin: 210px 140px 80px 170px;
 }
 .vision-future{
     display: flex;
@@ -145,4 +146,48 @@
     padding: 10px 20px;
     border-radius: 8px;
     background: rgb(255, 194, 57);
+}
+table{
+    border-collapse: collapse;
+}
+.tables{
+     
+     margin: 126px 120px;
+}
+ th{
+    border: 0.5px solid rgba(90, 88, 88, 0.1);
+    padding: 15px 15px;
+    background-color: rgb(198, 228, 214);
+    
+    
+}
+td {
+    border: 1px solid rgba(72, 70, 70, 0.1);
+    justify-content: space-between;
+    
+    text-align: center;
+    
+}
+.tone{
+    padding: 24px 350px 24px 24px;
+    font-size: 13px;
+    font-weight: bold;
+
+    
+    
+}
+.th1st{
+    border-right: none;
+    text-align: left;
+    
+
+
+}
+.th2nd{
+    border-left: none;
+}
+.tb{
+    border-radius: 6px;
+    padding: 8px 12px;
+    background-color: rgb(198, 228, 214);
 }
