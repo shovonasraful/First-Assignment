@@ -191,3 +191,79 @@ td {
     padding: 8px 12px;
     background-color: rgb(198, 228, 214);
 }
+.newssc{
+    display: flex;
+    justify-content:space-evenly;
+    gap: 30px;
+    padding: 35px 35px;
+}
+.thirdimg{
+    border-radius: 25px;
+}
+.News{
+
+    margin: 126px 120px;
+}
+.newsbutton{
+    color: aliceblue;
+    padding: 10px 20px;
+    border-radius: 8px;
+    background: color: aliceblue;
+    padding: 10px 20px;
+    border-radius: 8px;
+    background: rgb(9, 161, 92);
+}
+
+.news-second{
+    margin: 126px 120px;
+}
+.donate-title{
+    text-align: center;
+}
+.donation{
+    margin: 140px 180px;
+}
+.donatlist{
+    text-align: center;
+}
+button{
+    border-color: rgb(249, 250, 250);
+    font-size: 28px;
+    font-weight: bolder;
+    padding: 25px 35px;
+    border-radius: 15px;
+    margin: 24px;background-color: white;
+}
+button:hover{
+    color: rgb(215, 23, 122);
+    font-size: 35px;
+    background-color:aqua;
+
+}
+#extra-color{
+    background: rgb(198, 228, 214);
+}
+
+
+.donate-input{
+    align-items: center;
+}
+label {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+
+    
+}
+.size{
+    width: 800px;
+    height: 50px;
+    font-size: 18px;
+    text-align: center;
+    border-color: rgb(233, 235, 235);
+    outline-style: none;
+
+
+}
