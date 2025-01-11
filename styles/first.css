@@ -1,0 +1,148 @@
+.open-sans-normal{
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+
+      
+      }
+  
+
+  
+
+
+.topbar-style{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 150px;
+    list-style: none;
+    
+   
+    }
+.top-sign{
+    font-weight: 600;
+    color: rgb(0, 106, 80);
+    border-radius: 10px;
+    padding: 15px 30px;
+    border-color: rgb(0, 106, 80);
+    background-color: white;
+   
+}
+.top-title{
+    font-weight: 700;
+    color: rgb(14, 14, 14);
+    
+}
+.first-SC{
+    display: flex;
+    justify-content: space-between;
+    padding: 60px 90px ;
+    background: rgb(198, 228, 214);
+    border-radius:25px ;
+    margin: 20px 150px;
+
+
+
+    
+}
+.section-descr{
+    color: rgb(14, 14, 14);
+    font-weight:bolder;
+    font-size: 50px;
+    
+}
+.section-title{
+    color: rgba(14, 14, 14, 0.5);
+    font-size: 24px;
+    font-weight: 450px;
+}
+.first-img{
+    width: 470.03px;
+    height: 330px;
+    
+    
+}
+.section-1switch{
+    color:white;
+    font-size: 18px;
+    font-weight: bold;
+    background: rgb(0, 106, 80);
+    border-radius: 8px;
+    padding:20px 36px ;
+}
+.second-sc{
+    margin: 210px 140px 80px 140px;
+}
+.section-main{
+    display: flex;
+    gap: 20px;
+
+}
+
+
+.pillers{
+    padding: 22px 22px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 18px;
+   
+}
+.secondsc-title{
+    
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 13px;
+    font-weight: bolder;
+
+}
+.secondsc-desc{
+    color: rgba(14, 14, 14, 0.7);
+    font-style: 13px;
+    font-style: 350px;
+    
+}
+.vision{
+    margin: 210px 140px 80px 140px;
+}
+.vision-future{
+    display: flex;
+    gap: 20px;
+}
+.future-1{
+    padding: 22px 22px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 18px;
+    background: rgba(84, 144, 245, 0.2);
+}
+.future-2{
+    padding: 22px 22px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 18px;
+    background: rgb(198, 228, 214);
+}
+.future-3{
+    padding: 22px 22px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 18px;
+   background-color: rgba(247, 235, 207);
+}
+
+.vs-1{
+    color: aliceblue;
+    padding: 10px 20px;
+    border-radius: 8px;
+   background-color: rgb(84, 144, 245);
+   border-color: rgb(84, 144, 245);
+}
+.vs-2{
+    color: aliceblue;
+    padding: 10px 20px;
+    border-radius: 8px;
+    background: rgb(9, 161, 92);
+}
+.vs-3{
+    color: aliceblue;
+    padding: 10px 20px;
+    border-radius: 8px;
+    background: rgb(255, 194, 57);
+}
