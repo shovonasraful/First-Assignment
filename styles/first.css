@@ -262,8 +262,32 @@ label {
     height: 50px;
     font-size: 18px;
     text-align: center;
-    border-color: rgb(233, 235, 235);
+    border-color: rgb(243, 245, 246);
     outline-style: none;
-
+    
 
 }
+
+
+.substitle {
+    text-align: center;
+    border-radius: 15px;
+    background: rgb(198, 228, 214);
+    padding: 60px 200px;
+   margin: 60px 140px 60px 170px;
+   
+}
+.email{
+    width: 400px;
+    height: 30px;
+    padding: 10px 25px;
+    color: rgba(14, 14, 14, 0.3);
+    border-radius: 10px;
+    border-color: rgb(243, 244, 245);
+    outline-style: none;
+}
+.email,.newsbutton{
+    gap: 0;
+}
+
+
